@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita Vishnyakov</h1>
-<h3 align="center">| DevSecOps engineer</h3>
+<h3 align="center">| DevSecOps engineer |</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
